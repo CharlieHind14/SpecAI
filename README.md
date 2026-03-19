@@ -1,5 +1,6 @@
 # SpecAI
 Spec AI is my custom AI system.
+<img width="975" height="507" alt="working dev" src="https://github.com/user-attachments/assets/dbf08fa1-351c-49c1-a7a8-dcea95577d08" />
 
 It is self taught and the more it is used the smarter it gets - this works because of its read and write databases:
 - Preprogrammed database - Basic phrases and information about itself ( 'Hi', 'how are you?', 'who made you?', etc)
@@ -18,6 +19,8 @@ My next update and ship will include:
 -  Music :)
 
 Instructions for current use:
-
-
+1. Download the most recent release of SPEC AI (v0.1-beta).
+2. Selected 'view raw' - This downloads the file
+3. Open the Zip File and run the .exe file.
+4. You are now running the current version of SPECAI
 
