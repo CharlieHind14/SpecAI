@@ -18,6 +18,10 @@ My next update and ship will include:
 -  Working long-term memory.
 -  Music :)
 
+What I want it to turn out like:
+- Hosted on a website for users
+- Custom user memory that saves 
+
 Instructions for current use:
 1. Download the most recent release of SPEC AI (v0.1-beta).
 2. Selected 'view raw' - This downloads the file
