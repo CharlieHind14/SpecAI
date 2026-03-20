@@ -8,21 +8,21 @@ It is self taught and the more it is used the smarter it gets - this works becau
 - user database - For the First use of the AI it asks for you name and favourite colour ( This is to be extended with favourite bands and books etc )
 This function is to be extended in future as currently every time you restart the program all new memory is lost :(
 
-Current Features:
+# Current Features:
 - Basic Chat functions
 - Read and Write databases
 
-Whats next ?
+# Whats next ?
 My next update and ship will include:
 -  The ability to search the web.
 -  Working long-term memory.
 -  Music :)
 
-What I want it to turn out like:
+# What I want it to turn out like:
 - Hosted on a website for users
 - Custom user memory that saves 
 
-Instructions for current use:
+# Instructions for current use:
 1. Download the most recent release of SPEC AI (v0.1-beta).
 2. Selected 'view raw' - This downloads the file
 3. Open the Zip File and run the .exe file.
